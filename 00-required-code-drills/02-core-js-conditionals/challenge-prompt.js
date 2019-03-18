@@ -5,6 +5,7 @@
 
 // make a variable called `characterOneName` and assign it to be a string of "Mr. Farley"
 
+var characterOneName = "Mr.Farley";
 
 // assign a new value "Ms. Farley" to the variable `characterOneName`
 
@@ -85,29 +86,29 @@
 // Create an if statement to check if `characterOneName` is "Mr. Farley"
 
 
-    // If it does, console log "hello Mr. Farley"
+// If it does, console log "hello Mr. Farley"
 
-    
+
 // Else, check if `characterOneName` is "Ms.Farley"
 
 
-    // If it does, console log "hello Ms. Farley"
+// If it does, console log "hello Ms. Farley"
 
-    
+
 // Else, we know if the code reaches this point that `characterOneName` is neither "Mr. Farley" nor "Ms. Farley"
 
 
-    // So console.log "Hello stranger"
+// So console.log "Hello stranger"
 
-    
+
 
 
 // Create an if statement to check if `characterOneAge` is greather than `characterTwoAge`
 
 
-    // If it is, console log `characterOneName` prepended to the string " is older"
+// If it is, console log `characterOneName` prepended to the string " is older"
 
-    
+
 // Else, console log `characterTwoName` prepended to the string " is older"
 
 
@@ -118,9 +119,9 @@
 //       This means that both conditionals on either side of the `&&` have to be true in order for the two combined to be true
 
 
-    // If both are true, console log "Cross Country Friends!"
+// If both are true, console log "Cross Country Friends!"
 
-    
+
 // Else, console log "Local Friends!"
 
 
@@ -129,9 +130,9 @@
 // Create an if statement to check if `characterOneYearlySavings` is greater than `characterTwoYearlySavings`
 
 
-    // If it is, console log `characterOneName` prepended to the string " is a high roller!"
+// If it is, console log `characterOneName` prepended to the string " is a high roller!"
 
-    
+
 // Else, console log `characterTwoName` prepended to the string " is a high roller!"
 
 
@@ -142,11 +143,7 @@
 //       This means that if at least one conditional on either side of the `||` is true, the combined conditional will also be true
 
 
-    // If one of them is true, console log "Hey look! One of them is in the tech industry!"
+// If one of them is true, console log "Hey look! One of them is in the tech industry!"
 
-    
+
 // Else, console log "Aww, I wanted to meet someone in tech :("
-
-
-
-
